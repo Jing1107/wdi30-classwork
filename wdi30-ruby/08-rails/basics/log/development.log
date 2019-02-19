@@ -1,0 +1,176 @@
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:09:30 +1100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/jingdong/.rvm/gems/ruby-2.5.3/gems/railties-5.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/jingdong/.rvm/gems/ruby-2.5.3/gems/railties-5.2.2/lib/rails/templates/rails/welcome/index.html.erb (7.1ms)
+Completed 200 OK in 35ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:26:26 +1100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/jingdong/.rvm/gems/ruby-2.5.3/gems/railties-5.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/jingdong/.rvm/gems/ruby-2.5.3/gems/railties-5.2.2/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 25ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/hello" for 127.0.0.1 at 2019-01-14 11:26:31 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 487ms (Views: 486.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/hello" for 127.0.0.1 at 2019-01-14 11:30:33 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 74ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/faq" for 127.0.0.1 at 2019-01-14 11:30:38 +1100
+Processing by PagesController#faq as HTML
+  Rendering pages/faq.html.erb within layouts/application
+  Rendered pages/faq.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 39ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:31:46 +1100
+  
+SyntaxError (/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:2: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  root :to => get '/' => 'pages#hello' #get '/' ...
+                  ^
+/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:2: syntax error, unexpected =>, expecting keyword_end
+  root :to => get '/' => 'pages#hello' #get '/' => 'p...
+                      ^~
+/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:7: syntax error, unexpected keyword_end, expecting end-of-input):
+  
+config/routes.rb:2: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+config/routes.rb:2: syntax error, unexpected =>, expecting keyword_end
+config/routes.rb:7: syntax error, unexpected keyword_end, expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:31:54 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+actionpack (5.2.2) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.2) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.2) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.2) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.2) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.2) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.2) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.2) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.2) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.2) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.6) lib/rack/method_override.rb:22:in `call'
+rack (2.0.6) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.2) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.2) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.6) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.2) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:37:28 +1100
+  
+SyntaxError (/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:2: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  root :to => get '/' => 'pages#hello' #get '/' ...
+                  ^
+/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:2: syntax error, unexpected =>, expecting keyword_end
+  root :to => get '/' => 'pages#hello' #get '/' => 'p...
+                      ^~
+/Users/jingdong/Projects/wdi30-ruby/08-rails/basics/config/routes.rb:11: syntax error, unexpected keyword_end, expecting end-of-input):
+  
+config/routes.rb:2: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+config/routes.rb:2: syntax error, unexpected =>, expecting keyword_end
+config/routes.rb:11: syntax error, unexpected keyword_end, expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2019-01-14 11:57:44 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 322ms (Views: 316.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-14 12:02:56 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 55ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/funny" for 127.0.0.1 at 2019-01-14 12:03:02 +1100
+Processing by PagesController#funny as HTML
+  Rendering pages/funny.html.erb within layouts/application
+  Rendered pages/funny.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/funny" for 127.0.0.1 at 2019-01-14 12:06:25 +1100
+Processing by PagesController#funny as HTML
+  Rendering pages/funny.html.erb within layouts/application
+  Rendered pages/funny.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 439ms (Views: 428.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/funny" for 127.0.0.1 at 2019-01-14 12:09:26 +1100
+Processing by PagesController#funny as HTML
+  Rendering pages/funny.html.erb within layouts/application
+  Rendered pages/funny.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 176ms (Views: 167.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/funny" for 127.0.0.1 at 2019-01-14 12:10:43 +1100
+Processing by PagesController#funny as HTML
+  Rendering pages/funny.html.erb within layouts/application
+  Rendered pages/funny.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 71ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-14 12:10:45 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 50ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2019-01-14 12:10:46 +1100
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 140ms (Views: 139.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/faq" for 127.0.0.1 at 2019-01-14 12:10:47 +1100
+Processing by PagesController#faq as HTML
+  Rendering pages/faq.html.erb within layouts/application
+  Rendered pages/faq.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 40ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2019-01-14 12:10:48 +1100
+Processing by PagesController#about as HTML
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-01-14 12:10:49 +1100
+Processing by PagesController#hello as HTML
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 44ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/funny" for 127.0.0.1 at 2019-01-14 12:10:54 +1100
+Processing by PagesController#funny as HTML
+  Rendering pages/funny.html.erb within layouts/application
+  Rendered pages/funny.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+

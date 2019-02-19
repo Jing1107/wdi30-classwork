@@ -1,0 +1,20 @@
+{
+  "name": "flick-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-env": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

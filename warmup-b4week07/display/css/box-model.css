@@ -1,0 +1,25 @@
+/*
+In very common usage: turn on the new box-model for All elements*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: pink;
+}
+
+.old {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+}
+
+.new {
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+  border: 12px solid black;
+  padding: 50px;
+}

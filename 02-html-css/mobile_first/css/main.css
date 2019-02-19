@@ -1,0 +1,84 @@
+body {
+  background-color: pink;
+}
+
+/* IRL: normalize.css */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto; /*content */
+  padding: 0.5em;
+  min-height: 88vh;
+}
+
+header {
+  background-color: green;
+  color: #fff;
+  text-align: center;
+  padding: 0.8em 1em;
+  font-size: 1.5em
+}
+
+nav {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: #fff;
+  padding: 1em;
+  text-decoration: none;
+  display: inline-block;
+}
+
+aside > div {
+  background-color: #e3e5f9;
+  padding: 0.5em;
+}
+
+footer {
+  color: #fff;
+  background-color: #aab2f7;
+  text-align: center;
+  padding: 0.5em;
+}
+
+/* Media query: don't worry about specific screen sizes:
+resize the window yourself and find the breakpoint*/
+@media (min-width: 480px) {
+  nav {
+    display: block;
+  }
+
+  aside {
+    display: flex;
+  }
+}
+
+@media (min-width: 960px) {
+  .container {
+    display: flex;
+  }
+
+  main {
+    flex-basis: 0;
+    flex-grow: 2;
+  }
+
+  aside {
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+}
+
+@media (min-width: 1024px) {
+  aside {
+    display: flex;
+  }
+}
