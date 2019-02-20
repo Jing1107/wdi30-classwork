@@ -1,0 +1,23 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.pixel{
+  float: left;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 1px solid black;
+  margin:0;
+}
+.swatch{
+  width: 5em;
+  height: 5em;
+  border: 1px solid black;
+  display: inline-block;
+  margin-top: 1em;
+  margin-right: 1em;
+  border-radius: 0.5em;
+}
+.swatch.selected{
+  box-shadow: 0 0 15px green;
+}
