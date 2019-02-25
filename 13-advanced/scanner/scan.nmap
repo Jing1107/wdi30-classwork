@@ -1,0 +1,3384 @@
+# Nmap 7.70 scan initiated Fri Feb 22 15:30:13 2019 as: nmap -Pn -sS -oA scan -p 80 -iR 0 -vvv --open
+Nmap scan report for 89.107.98.66
+Host is up, received user-set (0.40s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 110
+
+Nmap scan report for 149.115.71.89
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 203-80-51-94.dsl.mls.nc (203.80.51.94)
+Host is up, received user-set (0.041s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for a184-87-187-187.deploy.static.akamaitechnologies.com (184.87.187.187)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 1.180.19.31
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for a23-62-220-139.deploy.static.akamaitechnologies.com (23.62.220.139)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for 31.13.206.230
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a23-13-135-61.deploy.static.akamaitechnologies.com (23.13.135.61)
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 57
+
+Nmap scan report for 212-83-179-182.rev.poneytelecom.eu (212.83.179.182)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 29s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 194.50.192.207
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 119
+
+Nmap scan report for 180.245.70.166
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for a118-215-8-87.deploy.static.akamaitechnologies.com (118.215.8.87)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 59
+
+Nmap scan report for 206.113-89-23.rdns.scalabledns.com (23.89.113.206)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 122
+
+Nmap scan report for 62-101-126-66.ip.fastwebnet.it (62.101.126.66)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for ip-173-201-237-232.ip.secureserver.net (173.201.237.232)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 1a.16.5546.static.theplanet.com (70.85.22.26)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:31:19 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for a23-73-13-119.deploy.static.akamaitechnologies.com (23.73.13.119)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 40s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for c-76-26-98-47.hsd1.nm.comcast.net (76.26.98.47)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for wasm.su (213.159.215.222)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 41s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 70.32.80.184
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 40s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 163.28.227.204
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 36s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for adsl-ull-66-208.40-151.wind.it (151.40.208.66)
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 39s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 110
+
+Nmap scan report for ec2-35-172-116-169.compute-1.amazonaws.com (35.172.116.169)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 33s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 44
+
+Nmap scan report for 85-22-21-119.ip.dokom21.de (85.22.21.119)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 200.24.219.163
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 33s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for dsl-189-140-204-242.prod-infinitum.com.mx (189.140.204.242)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 38s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 55
+
+Nmap scan report for unassigned.psychz.net (23.228.228.109)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 29s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 117
+
+Nmap scan report for 2.91.171.78
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 45.60.55.140
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 59
+
+Nmap scan report for a23-192-139-46.deploy.static.akamaitechnologies.com (23.192.139.46)
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 45.194.100.147
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 207.189.120.191
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for 220-133-15-216.HINET-IP.hinet.net (220.133.15.216)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:31:51 AEDT for 36s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+adjust_timeouts2: packet supposedly had rtt of 10032664 microseconds.  Ignoring time.
+Nmap scan report for 177.101.122.173
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 35s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 202.34.203.174
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 192-3-4-123-host.colocrossing.com (192.3.4.123)
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 77.19.240.232.tmi.telenormobil.no (77.19.240.232)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 30s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 223.164.44.48
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 113
+
+Nmap scan report for 31.148.96.159
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for static-84-9-212-15.vodafonexdsl.co.uk (84.9.212.15)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for dsl-189-242-113-14-dyn.prod-infinitum.com.mx (189.242.113.14)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for ec2-54-254-145-179.ap-southeast-1.compute.amazonaws.com (54.254.145.179)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for ec2-54-64-75-53.ap-northeast-1.compute.amazonaws.com (54.64.75.53)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 232
+
+Nmap scan report for 62.168.207.86
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 115
+
+Nmap scan report for 88.80.84.56
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a104-92-121-150.deploy.static.akamaitechnologies.com (104.92.121.150)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 36.90.51.32
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 154.223.98.16
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 119
+
+Nmap scan report for 36.70.118.236
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 28s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for a104-68-178-147.deploy.static.akamaitechnologies.com (104.68.178.147)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for static.131.88.46.78.clients.your-server.de (78.46.88.131)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for a23-216-144-233.deploy.static.akamaitechnologies.com (23.216.144.233)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 23.229.28.57
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 112.220.122.138
+Host is up, received user-set (0.14s latency).
+Scanned at 2019-02-22 15:32:35 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for 123.60.235.122
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for 67.209.112.219.static.supercp.com (67.209.112.219)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a23-195-67-30.deploy.static.akamaitechnologies.com (23.195.67.30)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 227.126.77.76.surfairwireless.net (76.77.126.227)
+Host is up, received user-set (0.43s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 44
+
+Nmap scan report for a23-204-215-184.deploy.static.akamaitechnologies.com (23.204.215.184)
+Host is up, received user-set (0.016s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a23-207-57-116.deploy.static.akamaitechnologies.com (23.207.57.116)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 211.151.9.20
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 242
+
+Nmap scan report for COB-ExecEd-Color.scheller.gatech.edu (130.207.61.57)
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 16
+
+Nmap scan report for a23-49-43-222.deploy.static.akamaitechnologies.com (23.49.43.222)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for a104-124-163-22.deploy.static.akamaitechnologies.com (104.124.163.22)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 216.106.33.41.reverse.socket.net (216.106.33.41)
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 177.185.1.57
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for intimua.com.ua (178.20.155.14)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a2-22-219-77.deploy.static.akamaitechnologies.com (2.22.219.77)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:33:21 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 39.105.158.13
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 89.218.53.114
+Host is up, received user-set (0.40s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 115.112.175.246.static-idc-vsb-chennai.vsnl.net.in (115.112.175.246)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 113
+
+Nmap scan report for 154.192.221.48
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for a23-194-168-217.deploy.static.akamaitechnologies.com (23.194.168.217)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 103.192.182.51
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for bet5jn-day-60.bettertisholiday.com (23.229.36.60)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for mta4.barthi.fr (46.21.200.51)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 52.172.154.27
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for a23-193-105-94.deploy.static.akamaitechnologies.com (23.193.105.94)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 36.79.20.57
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for dsl-189-177-61-222-dyn.prod-infinitum.com.mx (189.177.61.222)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for this.ptr.is.named.in.honor.of.arin.nac.net (64.21.130.145)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for i118-21-132-106.s30.a048.ap.plala.or.jp (118.21.132.106)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for pes75-6-88-190-98-164.fbxo.proxad.net (88.190.98.164)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for dsl-187-233-102-74-dyn.prod-infinitum.com.mx (187.233.102.74)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 179.187.92.222.dynamic.adsl.gvt.net.br (179.187.92.222)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for a23-44-74-117.deploy.static.akamaitechnologies.com (23.44.74.117)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for ADSL-94.73.30.180.mada.ps (94.73.30.180)
+Host is up, received user-set (0.41s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 37.48.153.250
+Host is up, received user-set (0.41s latency).
+Scanned at 2019-02-22 15:34:32 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 224
+
+Nmap scan report for a104-102-155-74.deploy.static.akamaitechnologies.com (104.102.155.74)
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for ec2-54-232-252-242.sa-east-1.compute.amazonaws.com (54.232.252.242)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 60s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for ec2-54-248-98-81.ap-northeast-1.compute.amazonaws.com (54.248.98.81)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 58s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for server-13-35-243-14.lhr62.r.cloudfront.net (13.35.243.14)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 237
+
+Nmap scan report for a23-43-17-176.deploy.static.akamaitechnologies.com (23.43.17.176)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for a23-41-224-133.deploy.static.akamaitechnologies.com (23.41.224.133)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 57
+
+Nmap scan report for a96-6-139-116.deploy.static.akamaitechnologies.com (96.6.139.116)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 36.70.30.175
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for 103.244-128-109.adsl-dyn.isp.belgacom.be (109.128.244.103)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 117.201.86.120
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 43s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 180.248.138.142
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 59s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for 220-253-68-24.dyn.iinet.net.au (220.253.68.24)
+Host is up, received user-set (0.036s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 36.74.215.125
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 149.156.166.18
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for a104-66-37-192.deploy.static.akamaitechnologies.com (104.66.37.192)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 36.80.13.91
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for ip-192-169-223-157.ip.secureserver.net (192.169.223.157)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 58s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 103.85.188.60
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 231
+
+Nmap scan report for 194.255.89.74
+Host is up, received user-set (0.43s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 47.96.22.255
+Host is up, received user-set (0.53s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for a23-223-129-138.deploy.static.akamaitechnologies.com (23.223.129.138)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 60s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a23-48-199-16.deploy.static.akamaitechnologies.com (23.48.199.16)
+Host is up, received user-set (0.025s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for c-69-138-120-125.hsd1.fl.comcast.net (69.138.120.125)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:35:00 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 23.81.175.37
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 93.155.144.7
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a23-220-214-119.deploy.static.akamaitechnologies.com (23.220.214.119)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a104-98-108-70.deploy.static.akamaitechnologies.com (104.98.108.70)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for vs211-241-1.cdn.datacate.net (23.249.1.243)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for p4FEDCAC2.dip0.t-ipconnect.de (79.237.202.194)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a23-47-134-127.deploy.static.akamaitechnologies.com (23.47.134.127)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a104-64-96-129.deploy.static.akamaitechnologies.com (104.64.96.129)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for dup-201-105-45-93.prod-dial.com.mx (201.105.45.93)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 159.121.153.128
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 248
+
+Nmap scan report for 61.240.155.236
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 104.20.248.251
+Host is up, received user-set (0.0064s latency).
+Scanned at 2019-02-22 15:36:01 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+Nmap scan report for martens64.de (178.254.21.99)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 40s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 118.43.43.43
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 62s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 50.56.22.82
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 68s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 213-192-236-123.psoe.es (213.192.236.123)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 45s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 40
+
+Nmap scan report for viewer.fileopen.com (50.19.222.146)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 49s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 234
+
+Nmap scan report for ec2-34-251-237-73.eu-west-1.compute.amazonaws.com (34.251.237.73)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 68s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 230
+
+Nmap scan report for virtualforge.com (188.40.141.54)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 176.120.209.111
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 67s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 212-186-190-200.static.upcbusiness.at (212.186.190.200)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 57s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 111
+
+Nmap scan report for ec2-34-216-33-185.us-west-2.compute.amazonaws.com (34.216.33.185)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 55s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 41
+
+Nmap scan report for 203.195.255.95
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for 99-21-149-161.lightspeed.frokca.sbcglobal.net (99.21.149.161)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 67s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 159.65.141.54
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for qclnet.com (209.15.33.208)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 57s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for snob.ghostknowledge.eu (91.132.164.228)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 59s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 137.32.130.192
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 67s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for 24-140-233-69.cpe.teksavvy.com (24.140.233.69)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for a23-77-240-48.deploy.static.akamaitechnologies.com (23.77.240.48)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 198.98.27.87
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:36:26 AEDT for 40s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 42.118.70.67
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 154.94.189.98
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 116
+
+Nmap scan report for vserver1579.vserver-on.de (84.38.65.38)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a104-79-21-195.deploy.static.akamaitechnologies.com (104.79.21.195)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 30s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for i26-h0-s4003.p1-gru.cdngp.net (174.35.93.240)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 207.140.40.24
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 190.69.184.13
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for ec2-176-34-143-23.eu-west-1.compute.amazonaws.com (176.34.143.23)
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 230
+
+Nmap scan report for 180.254.131.140
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for a104-97-54-102.deploy.static.akamaitechnologies.com (104.97.54.102)
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 95.168.179.17
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for a23-64-177-238.deploy.static.akamaitechnologies.com (23.64.177.238)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 57
+
+Nmap scan report for 106.15.43.204
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 41
+
+Nmap scan report for 103.21.58.25
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:38:38 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for a104-97-128-162.deploy.static.akamaitechnologies.com (104.97.128.162)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for 156.233.62.252
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 116
+
+Nmap scan report for 66.160.186.36
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for dsl-187-228-61-220-dyn.prod-infinitum.com.mx (187.228.61.220)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 207.72.115.223
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for ied210.internetdsl.tpnet.pl (79.189.107.210)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for ec2-54-225-149-115.compute-1.amazonaws.com (54.225.149.115)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 233
+
+Nmap scan report for dsl-187-148-41-220-dyn.prod-infinitum.com.mx (187.148.41.220)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 154.222.99.51
+Host is up, received user-set (0.13s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 120
+
+Nmap scan report for hfc-181-139-79-64.une.net.co (181.139.79.64)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 197.161.62.93
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 109.107.184.5
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:39:09 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for a23-2-38-36.deploy.static.akamaitechnologies.com (23.2.38.36)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 61.129.119.51
+Host is up, received user-set (0.44s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 109
+
+Nmap scan report for c-113-156.cust-q.wadsl.it (212.43.113.156)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 110
+
+Nmap scan report for 34.177.6.186.f.dyn.codetel.net.do (186.6.177.34)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 199.30.64.93
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for 188.208.150.79
+Host is up, received user-set (0.50s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 40
+
+Nmap scan report for 36.81.180.10
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for host208.hosting.register.com.28.204.207.in-addr.arpa (207.204.28.2)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 0s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 212.77.70.17
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for host7217100251215.direcway.com (72.171.215.251)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 245
+
+Nmap scan report for 180.252.15.248
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 173.44.55.146.static.quadranet.com (173.44.55.146)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a23-9-121-13.deploy.static.akamaitechnologies.com (23.9.121.13)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for static-wan-bl3-151-222.rev.webside.pt (62.28.151.222)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 36.76.32.163
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for rango236publica193.reytelhn.net (200.107.236.193)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 36.85.214.178
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for 210-129-59-137.jp-east.compute.idcfcloud.com (210.129.59.137)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:39:42 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for BSN-176-209-235.dynamic.siol.net (95.176.209.235)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a23-11-74-111.deploy.static.akamaitechnologies.com (23.11.74.111)
+Host is up, received user-set (0.14s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 77.81.104.36
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 154.220.55.98
+Host is up, received user-set (0.14s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 119
+
+Nmap scan report for 216-211-32-119.dynamic.tbaytel.net (216.211.32.119)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 83.103.174.28
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for dsl-187-236-206-97-dyn.prod-infinitum.com.mx (187.236.206.97)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for a72-247-214-34.deploy.static.akamaitechnologies.com (72.247.214.34)
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for 103.232.85.243
+Host is up, received user-set (0.14s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 121
+
+Nmap scan report for 118.26.68.218
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 236
+
+Nmap scan report for host101-175-static.6-79-b.business.telecomitalia.it (79.6.175.101)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 109
+
+Nmap scan report for 163.191.255.108
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for thefate.org (168.144.62.126)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for c-68-42-225-212.hsd1.mi.comcast.net (68.42.225.212)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 175.244.72.134
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 85.191.250.69
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for ec2-52-203-196-72.compute-1.amazonaws.com (52.203.196.72)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 234
+
+Nmap scan report for 177-139-162-137.dsl.telesp.net.br (177.139.162.137)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for server-52-84-35-189.ewr50.r.cloudfront.net (52.84.35.189)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:40:04 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 242
+
+Nmap scan report for 178.72.177.171 (178.72.177.171)
+Host is up, received user-set (0.45s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for a23-52-146-140.deploy.static.akamaitechnologies.com (23.52.146.140)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 55
+
+Nmap scan report for 120.55.138.51
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 102
+
+Nmap scan report for 112.64.200.123
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 44
+
+Nmap scan report for 154.213.203.54
+Host is up, received user-set (0.13s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 55
+
+Nmap scan report for 185.253.96.126
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 91.225.56.40
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 137.195.93.119
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for 192.225.186.35.bc.googleusercontent.com (35.186.225.192)
+Host is up, received user-set (0.0062s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 120
+
+Nmap scan report for 157.97.42.70
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for mx220.boxesofwood.net (185.246.222.221)
+Host is up, received user-set (0.54s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 156.234.212.243
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 120
+
+Nmap scan report for h2820992.stratoserver.net (81.169.199.104)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for unci.balands.pw (185.252.104.99)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for ec2-52-65-169-116.ap-southeast-2.compute.amazonaws.com (52.65.169.116)
+Host is up, received user-set (0.0045s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 242
+
+Nmap scan report for a95-101-247-104.deploy.static.akamaitechnologies.com (95.101.247.104)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 37.209.240.101
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for secure.federal-hotel.com (178.33.86.126)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 101.2.137.235.user.e-catv.ne.jp (101.2.137.235)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:41:30 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 16
+
+Nmap scan report for 39.108.183.182
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 202.133.0.161
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for ec2-34-208-187-126.us-west-2.compute.amazonaws.com (34.208.187.126)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 232
+
+Nmap scan report for a23-42-164-32.deploy.static.akamaitechnologies.com (23.42.164.32)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 59
+
+Nmap scan report for ip-67-211-72-58.tera-byte.com (67.211.72.58)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 119.157.250.202
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 149.165.180.34
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for ip565c657a.direct-adsl.nl (86.92.101.122)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a23-49-20-84.deploy.static.akamaitechnologies.com (23.49.20.84)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 174.sub-166-239-105.myvzw.com (166.239.105.174)
+Host is up, received user-set (1.3s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 235
+
+Nmap scan report for 103.45.4.34
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for mrc45-2-82-240-75-122.fbx.proxad.net (82.240.75.122)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 212.86.97.205
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 233.109-244-23.rdns.scalabledns.com (23.244.109.233)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 58
+
+Nmap scan report for 104.18.168.93
+Host is up, received user-set (0.013s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 173-244-102-224.olypen.com (173.244.102.224)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 123.56.133.30
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 106
+
+Nmap scan report for 64-132-58-103.static.ctl.one (64.132.58.103)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 154.222.114.89
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for bb1641e6.virtua.com.br (187.22.65.230)
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a172-227-188-106.deploy.static.akamaitechnologies.com (172.227.188.106)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for vs4664.cloudhosting.rs (94.127.4.156)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:41:51 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for hummocky.localrespond.com (207.31.123.34)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for d118-75-109-146.try.wideopenwest.com (75.118.146.109)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 162.250.142.54
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 244
+
+Nmap scan report for 38.subnet110-136-76.speedy.telkom.net.id (110.136.76.38)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 172.252.237.170
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 29s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 230
+
+Nmap scan report for 142.92.175.227
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 31s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for 68.183.101.216
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 205.147.88.254
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 58
+
+Nmap scan report for 159.203.254.69
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for www.argyelanmariann.hu (195.228.224.169)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 185.189.222.20
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 194.204.215.71
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 28s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 107
+
+Nmap scan report for commed.sf.k12.sd.us (206.176.80.191)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 32s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 108
+
+Nmap scan report for 72-16-227-122.customerip.birch.net (72.16.227.122)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 29s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 104.19.10.103
+Host is up, received user-set (0.0047s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 28s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for li1087-15.members.linode.com (213.168.248.15)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for cw37-aef-ah0234.romania-webhosting.com (37.156.180.234)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:42:12 AEDT for 30s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 136.73.142.82.static.b26.cz (82.142.73.136)
+Host is up, received user-set (1.00s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 101.117.1.97
+Host is up, received user-set (0.018s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 245
+
+Nmap scan report for a104-111-216-207.deploy.static.akamaitechnologies.com (104.111.216.207)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 87.44.18.69
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for neroxsib.ru (80.87.198.168)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a23-33-98-201.deploy.static.akamaitechnologies.com (23.33.98.201)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 28.132.213.35.bc.googleusercontent.com (35.213.132.28)
+Host is up, received user-set (0.13s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 42s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 107
+
+Nmap scan report for 8.subnet110-138-62.speedy.telkom.net.id (110.138.62.8)
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for qp.futz.org (199.101.97.233)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 34s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for ec2-34-204-143-210.compute-1.amazonaws.com (34.204.143.210)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 235
+
+Nmap scan report for cpanel-ox-120.safegrid.net (85.121.181.120)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 37s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for smarteurope.ro (37.251.151.99)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a104-120-208-102.deploy.static.akamaitechnologies.com (104.120.208.102)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 202.105.3.184
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 13
+
+Nmap scan report for pc11.wms10lab.wits.ac.za (146.141.137.11)
+Host is up, received user-set (0.50s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 237
+
+Nmap scan report for 197.157.44.154
+Host is up, received user-set (0.48s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 30s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 45.60.49.143
+Host is up, received user-set (0.0038s latency).
+Scanned at 2019-02-22 15:42:46 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 57
+
+Nmap scan report for www2999.sakura.ne.jp (49.212.198.239)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 30s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 206.246.76.123
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a23-77-94-94.deploy.static.akamaitechnologies.com (23.77.94.94)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 38s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 81.94.216.199
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 34s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for voip.dnsno.de (173.233.94.162)
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for ns3020322.ip-46-105-111.eu (46.105.111.177)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 117
+
+Nmap scan report for 16.107.201.35.bc.googleusercontent.com (35.201.107.16)
+Host is up, received user-set (0.0072s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 34s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 122
+
+Nmap scan report for 232.153.199.104.bc.googleusercontent.com (104.199.153.232)
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 38s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 58
+
+Nmap scan report for 198.55.121.29.static.quadranet.com (198.55.121.29)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for 208.110.142.218
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 29s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 117
+
+Nmap scan report for a104-98-48-137.deploy.static.akamaitechnologies.com (104.98.48.137)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for dsl-187-226-205-42-dyn.prod-infinitum.com.mx (187.226.205.42)
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 59-126-6-204.HINET-IP.hinet.net (59.126.6.204)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 28s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for ip-23-229-233-197.ip.secureserver.net (23.229.233.197)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 34s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 178.170.208.117
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 172.87.199.57
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:44:52 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 246
+
+Nmap scan report for lns-bzn-37-82-253-24-149.adsl.proxad.net (82.253.24.149)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 223.7.116.225
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for a104-103-103-14.deploy.static.akamaitechnologies.com (104.103.103.14)
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for host40-44-237-212.serverdedicati.aruba.it (212.237.44.40)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 36.69.225.66
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for 213.148.93.225
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 74.153-246-172.rdns.scalabledns.com (172.246.153.74)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 58
+
+Nmap scan report for host-109-171-88-104.bbcustomer.zsttk.net (109.171.88.104)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 156.235.69.55
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for ec2-34-250-87-254.eu-west-1.compute.amazonaws.com (34.250.87.254)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 230
+
+Nmap scan report for 5.64.12.69.verygoodserver.com (69.12.64.5)
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for 45.76.7.11.vultr.com (45.76.7.11)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for ec2-34-246-255-156.eu-west-1.compute.amazonaws.com (34.246.255.156)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 103
+
+Nmap scan report for a23-61-106-252.deploy.static.akamaitechnologies.com (23.61.106.252)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:45:32 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for 162-144-186-184.unifiedlayer.com (162.144.186.184)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 70s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for ec2-54-69-158-213.us-west-2.compute.amazonaws.com (54.69.158.213)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 69s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 232
+
+Nmap scan report for 69.59.24.205
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 70s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 45.38.169.100
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 54s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 118
+
+Nmap scan report for 150.60.58.133
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 121.199.3.193
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 41s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 41
+
+Nmap scan report for 37-63-111-175-static.chief.net.tw (175.111.63.37)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for vnm03.errsale.com (203.76.229.123)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 103.232.221.22
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 234
+
+Nmap scan report for troposphere.digstip.eu (147.78.49.29)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 40
+
+Nmap scan report for server-13-32-42-69.hel50.r.cloudfront.net (13.32.42.69)
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for a23-2-38-186.deploy.static.akamaitechnologies.com (23.2.38.186)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 61s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for ec2-54-244-104-209.us-west-2.compute.amazonaws.com (54.244.104.209)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 70s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 41
+
+Nmap scan report for 198.24.166.152
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 32s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 109-123-220-080.tvujweb.net (109.123.220.80)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 114
+
+Nmap scan report for intranetguard.com (63.249.250.70)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 54s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for ip-198-71-129-188.ip.secureserver.net (198.71.129.188)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 41s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 116
+
+Nmap scan report for 187-45-124-55.mhnet.com.br (187.45.125.55)
+Host is up, received user-set (0.50s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 64s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 92.222.128.191
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:45:53 AEDT for 41s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 192.200.174.129
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for ec2-52-24-85-12.us-west-2.compute.amazonaws.com (52.24.85.12)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 232
+
+Nmap scan report for 140.234.16.12
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 172.107.46.53
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 116
+
+Nmap scan report for bas3-ottawa23-70-48-57-9.dsl.bell.ca (70.48.57.9)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for hosted-by.IHC.RU (95.181.228.250)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 5.35.214.106
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 189.89.41.193
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for vgtp-008204.vigortips.com (103.26.8.204)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 192.56.132.142
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 25
+
+Nmap scan report for cloudserver3127805.home.pl (46.41.186.49)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 47.101.69.206
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 41
+
+Nmap scan report for 23.104.7.202
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 57
+
+Nmap scan report for 229.83.92.62.static.cust.telenor.com (62.92.83.229)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 110
+
+Nmap scan report for 125.167.132.3
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:47:05 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 119.202.36.4
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for dvc-104-180-156-186.movil.vtr.net (186.156.180.104)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for a23-205-37-52.deploy.static.akamaitechnologies.com (23.205.37.52)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 39.105.60.90
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 106
+
+Nmap scan report for 216.251.125.70
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for nc-71-2-17-158.sta.embarqhsd.net (71.2.17.158)
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for www.nexqloud.com (207.192.172.66)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for 131.221.230.108
+Host is up, received user-set (0.52s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for ec2-13-211-117-113.ap-southeast-2.compute.amazonaws.com (13.211.117.113)
+Host is up, received user-set (0.0060s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 247
+
+Nmap scan report for 162-209-153-235.ceranetworks.com (162.209.153.235)
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 23s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 47.106.247.99
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for ec2-3-8-104-221.eu-west-2.compute.amazonaws.com (3.8.104.221)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 23.106.237.132
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for ec2-18-223-42-141.us-east-2.compute.amazonaws.com (18.223.42.141)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 232
+
+Nmap scan report for li1470-168.members.linode.com (139.162.57.168)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 156.239.128.158
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:48:32 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 117
+
+Nmap scan report for a23-32-137-115.deploy.static.akamaitechnologies.com (23.32.137.115)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 103.212.104.245
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 248
+
+Nmap scan report for a104-91-170-176.deploy.static.akamaitechnologies.com (104.91.170.176)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for host.streetguardian.cam (162.255.163.190)
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a95-101-108-201.deploy.static.akamaitechnologies.com (95.101.108.201)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 50-239-196-83-static.hfc.comcastbusiness.net (50.239.196.83)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 115
+
+Nmap scan report for pd95cce6e.dip0.t-ipconnect.de (217.92.206.110)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for 192.66.111.121
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for a104-114-35-236.deploy.static.akamaitechnologies.com (104.114.35.236)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 38.99.143.74
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 154.95.91.188
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 117
+
+Nmap scan report for a23-209-116-157.deploy.static.akamaitechnologies.com (23.209.116.157)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for ec2-54-85-230-110.compute-1.amazonaws.com (54.85.230.110)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 235
+
+Nmap scan report for 59.54.175.179
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for hosting.wpnsolutions.ca (45.55.251.137)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for a104-83-64-238.deploy.static.akamaitechnologies.com (104.83.64.238)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 190-201-130-100.dyn.dsl.cantv.net (190.201.130.100)
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for a23-52-33-35.deploy.static.akamaitechnologies.com (23.52.33.35)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 109.120.130.243.addr.datapoint.ru (109.120.130.243)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for blake-elgado-dock.pace.gatech.edu (130.207.183.104)
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 20
+
+Nmap scan report for 207-191-141-65.arvig.net (207.191.141.65)
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 5s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 81.28.41.47
+Host is up, received user-set (0.40s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 4s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 34
+
+Nmap scan report for host166-133-static.10-79-b.business.telecomitalia.it (79.10.133.166)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 109
+
+Nmap scan report for a23-75-163-7.deploy.static.akamaitechnologies.com (23.75.163.7)
+Host is up, received user-set (0.42s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 27.123.242.180
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:48:57 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for www.ntel-signup.com (157.205.219.202)
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 2.132.101.27.megaline.telecom.kz (2.132.101.27)
+Host is up, received user-set (0.40s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for rbpool7-60.leru.net (97.75.248.61)
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 184.105.163.45
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 55
+
+Nmap scan report for client-181-43-68-27.imovil.entelpcs.cl (181.43.68.27)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for testname.com (92.53.67.67)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 7s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 36.73.92.242
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for planetlab1.cs.ubc.ca (142.103.2.1)
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 0s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a23-2-143-95.deploy.static.akamaitechnologies.com (23.2.143.95)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 118.25.97.209
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for a23-65-77-139.deploy.static.akamaitechnologies.com (23.65.77.139)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 198.143.59.222.ip.incapdns.net (198.143.59.222)
+Host is up, received user-set (0.15s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 59
+
+Nmap scan report for 177.124.37.206
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 39
+
+Nmap scan report for 45.58.41.138
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 210.136.102.66
+Host is up, received user-set (0.13s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for p5B080131.dip0.t-ipconnect.de (91.8.1.49)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 84.38.76.118.adsl-pool.sx.cn (118.76.38.84)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for ip-185.80.32.158.onlinenet.pl (185.80.32.158)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 125-160.butte.edu (205.155.125.160)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 24
+
+Nmap scan report for 103.246.249.20
+Host is up, received user-set (0.037s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 3s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 96-85-251-138-static.hfc.comcastbusiness.net (96.85.251.138)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:49:16 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 115
+
+Nmap scan report for srv-teste-app.telespazio.net.br (200.142.160.122)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for a23-197-214-80.deploy.static.akamaitechnologies.com (23.197.214.80)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 45.244.79.121
+Host is up, received user-set (0.39s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 44
+
+Nmap scan report for 167.93.210.59
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 21
+
+Nmap scan report for ec2-54-238-143-248.ap-northeast-1.compute.amazonaws.com (54.238.143.248)
+Host is up, received user-set (0.13s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for 142.93.78.80
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for server-143-204-53-21.osl50.r.cloudfront.net (143.204.53.21)
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 10s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for a96-6-181-31.deploy.static.akamaitechnologies.com (96.6.181.31)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 107.148.11.164
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for 189.58.230.98.dynamic.adsl.gvt.net.br (189.58.230.98)
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 142.92.238.77
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
+Nmap scan report for 142.93.172.239
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 187.108.42.229
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:49:35 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 241
+
+Nmap scan report for 104.148.70.41
+Host is up, received user-set (0.17s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for a104-77-214-64.deploy.static.akamaitechnologies.com (104.77.214.64)
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 41.225.189.242
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for ns.quickweb.ro (87.118.121.224)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 61.155.43.186
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for a23-217-73-188.deploy.static.akamaitechnologies.com (23.217.73.188)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 182.254.236.107
+Host is up, received user-set (0.26s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 107
+
+Nmap scan report for a23-208-23-16.deploy.static.akamaitechnologies.com (23.208.23.16)
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 101.227.74.164
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 39
+
+Nmap scan report for 45.196.175.92
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for server.libertyvps.net (89.248.166.150)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 120.127.142.126
+Host is up, received user-set (0.23s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for a2-22-40-44.deploy.static.akamaitechnologies.com (2.22.40.44)
+Host is up, received user-set (0.43s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for kristin.sh.cvut.cz (147.32.30.135)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 185.152.210.246
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 26s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a184-50-35-128.deploy.static.akamaitechnologies.com (184.50.35.128)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for ec2-13-229-52-231.ap-southeast-1.compute.amazonaws.com (13.229.52.231)
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for 77.36.226.146
+Host is up, received user-set (0.41s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 66-252-120-223.nebnet.net (66.252.120.223)
+Host is up, received user-set (0.27s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 213.151.58.83
+Host is up, received user-set (0.41s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 112.29.209.57
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 43
+
+Nmap scan report for 184.94.107.159
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 27s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for 115.159.159.122
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 24s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 42
+
+Nmap scan report for 93-89-224-154.fbs.com.tr (93.89.224.154)
+Host is up, received user-set (0.36s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 234
+
+Nmap scan report for a23-9-95-183.deploy.static.akamaitechnologies.com (23.9.95.183)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:51:07 AEDT for 21s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+adjust_timeouts2: packet supposedly had rtt of 8425303 microseconds.  Ignoring time.
+Nmap scan report for 104.19.231.200
+Host is up, received user-set (0.0044s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for cpc95694-derb16-2-0-cust203.8-3.cable.virginm.net (82.17.56.204)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 134.73.92.212
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 56
+
+Nmap scan report for a104-121-6-225.deploy.static.akamaitechnologies.com (104.121.6.225)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for a23-216-38-54.deploy.static.akamaitechnologies.com (23.216.38.54)
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 72.110.73.34.bc.googleusercontent.com (34.73.110.72)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 54
+
+Nmap scan report for D93E76D7.cm-28.dynamic.ziggo.nl (217.62.118.215)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 180.252.250.14
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 240
+
+Nmap scan report for 122-117-5-219.HINET-IP.hinet.net (122.117.5.219)
+Host is up, received user-set (0.18s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 144.50.151.203.sta.inet.co.th (203.151.50.144)
+Host is up, received user-set (0.24s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a104-125-123-44.deploy.static.akamaitechnologies.com (104.125.123.44)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 9s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 79.128.76.118.adsl-pool.sx.cn (118.76.128.79)
+Host is up, received user-set (0.35s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for node-103.220.17.149.bt-peer.com (103.220.17.149)
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 14s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 58.124.225.131
+Host is up, received user-set (0.37s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 22s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 178.62.207.171
+Host is up, received user-set (0.29s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for host4-194-static.62-82-b.business.telecomitalia.it (82.62.194.4)
+Host is up, received user-set (0.38s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 45
+
+Nmap scan report for static.243.46.251.148.clients.your-server.de (148.251.46.243)
+Host is up, received user-set (0.31s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for a23-208-132-105.deploy.static.akamaitechnologies.com (23.208.132.105)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 12s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for 71-14-221-117.static.stls.mo.charter.com (71.14.221.117)
+Host is up, received user-set (0.21s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for 173-9-132-8-Miami.FL.hfc.comcastbusiness.net (173.9.132.8)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 47
+
+Nmap scan report for 193.206.107.12
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 110
+
+Nmap scan report for 220.238.186.35.bc.googleusercontent.com (35.186.238.220)
+Host is up, received user-set (0.0054s latency).
+Scanned at 2019-02-22 15:51:36 AEDT for 25s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 120
+
+Nmap scan report for 158.199.224.14
+Host is up, received user-set (0.19s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a60-254-171-49.deploy.static.akamaitechnologies.com (60.254.171.49)
+Host is up, received user-set (0.12s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 59
+
+Nmap scan report for 31-47-240-196.rdns.configcenter.info.240.47.31.rdns.configcenter.info (31.47.240.196)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for a118-214-47-241.deploy.static.akamaitechnologies.com (118.214.47.241)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 48
+
+Nmap scan report for 196.17.225.21
+Host is up, received user-set (0.16s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 52
+
+Nmap scan report for 189-28-206-9-host.tvc.tv.br (189.28.206.9)
+Host is up, received user-set (0.34s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 18s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 238
+
+Nmap scan report for host13-121-static.23-80-b.business.telecomitalia.it (80.23.121.13)
+Host is up, received user-set (0.42s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 6s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 46
+
+Nmap scan report for 101.132.159.125
+Host is up, received user-set (0.33s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 13s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 105
+
+Nmap scan report for a23-57-21-239.deploy.static.akamaitechnologies.com (23.57.21.239)
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 17s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 128-092-136-050.biz.spectrum.com (128.92.136.50)
+Host is up, received user-set (0.20s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 8s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 50
+
+Nmap scan report for 68.66.250.188
+Host is up, received user-set (0.30s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 15s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 51
+
+Nmap scan report for 86.109.214.35.bc.googleusercontent.com (35.214.109.86)
+Host is up, received user-set (0.28s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 11s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 112
+
+Nmap scan report for 99-182-220-240.lightspeed.hstntx.sbcglobal.net (99.182.220.240)
+Host is up, received user-set (0.25s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 49
+
+Nmap scan report for ec2-52-54-172-202.compute-1.amazonaws.com (52.54.172.202)
+Host is up, received user-set (0.22s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 20s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 235
+
+Nmap scan report for a96-7-135-236.deploy.static.akamaitechnologies.com (96.7.135.236)
+Host is up, received user-set (0.062s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 16s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 53
+
+Nmap scan report for server-143-204-207-138.fra53.r.cloudfront.net (143.204.207.138)
+Host is up, received user-set (0.32s latency).
+Scanned at 2019-02-22 15:52:03 AEDT for 19s
+
+PORT   STATE SERVICE REASON
+80/tcp open  http    syn-ack ttl 239
+
