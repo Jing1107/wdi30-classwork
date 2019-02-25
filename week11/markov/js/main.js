@@ -68,6 +68,6 @@ $(document).ready(function() {
       let nextText = generate(60);
       let $el = $('<p>').text(nextText);
       $('#output').append($el)
-    }// fi
-  })
+    }// if
+  }) // keypress
 })
