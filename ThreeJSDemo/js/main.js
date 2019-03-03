@@ -91,6 +91,13 @@ function createLightHelper(light) {
   return helper;
 }
 
+function addOrbitControls(camera, renderer) {
+  //console.log(camera, renderer);
+  new THREE.OribitOontrols( camera,
+    renderer.domElement
+  );
+}
+
 
 
 const renderer = createRenderer();
@@ -110,6 +117,9 @@ const cube = createCube({
   y: 4,
   z: 0
 });
+
+addOrbitControls(camera, renderer);
+
 
 scene.add(axes,floor, cube ,sphere, light, lightHelper);
 renderer.render(scene, camera);

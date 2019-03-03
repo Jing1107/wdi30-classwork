@@ -1,0 +1,44 @@
+/* path {
+  stroke: red;
+  stroke-dasharray: 3470.04833984375;
+  stroke-dashoffset: 3470.04833984375;
+  transition: all 10s;
+
+}
+
+svg:hover path {
+  stroke-dashoffset: 0;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+  /* font-family: 'Montserrat', sans-serif; */
+  background-size: cover;
+}
+
+svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 350px;
+}
+
+svg text {
+  font-size: 200px;
+  fill: rgba(0,0,0,.1);
+  stroke-width: 1px;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-dasharray: 80;
+  animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+  100% {
+    stroke-dashoffset: 160;
+  }
+}
